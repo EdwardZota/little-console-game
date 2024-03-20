@@ -1,0 +1,14 @@
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\bin\Debug\net8.0\Esercizio6.exe
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\bin\Debug\net8.0\Esercizio6.deps.json
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\bin\Debug\net8.0\Esercizio6.runtimeconfig.json
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\bin\Debug\net8.0\Esercizio6.dll
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\bin\Debug\net8.0\Esercizio6.pdb
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\Esercizio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\Esercizio6.AssemblyInfoInputs.cache
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\Esercizio6.AssemblyInfo.cs
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\Esercizio6.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\Esercizio6.dll
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\refint\Esercizio6.dll
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\Esercizio6.pdb
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\Esercizio6.genruntimeconfig.cache
+C:\Users\CC-Student\Desktop\esercizi\3.Programmazione Orientata agli Oggetti (OOP)\Esercizio6\Esercizio6\obj\Debug\net8.0\ref\Esercizio6.dll
